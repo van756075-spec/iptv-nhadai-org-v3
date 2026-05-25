@@ -1,0 +1,100 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Nổi Bật" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQ27MjHl3cKJYhYGrT21hJ6slFk9SwxAMlE4pkys_vQ&s=10", VTV1 HD
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Nổi Bật" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRESqpffHd8QlJhWzfn7fu0zOujk3qmLDm4JMTD8LpeDQ&s=10", VTV3 HD
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Nổi Bật" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROTWF_uK29AzLbCg2Qs27JrQJ7Umfbm_vVhZy96sBZGg&s=10", VTV5 HD
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtvcantho" group-title="Nổi Bật" tvg-logo="https://img.lichphatsong.site/logo/vtvcantho.jpg", VTV Cần Thơ 
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="fptplay" group-title="Nổi Bật" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2nW4W1Yo3sQCMgGnu7mC0mwjDCRKGWi8_ibkWhYIwFg&s", FPT Play 
+https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htvcthethao" group-title="Nổi Bật" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVV2o-q4a2AA2_ox77RoDZpmlYqirYQtAC2oUk4i05ug&s=10", HTVC Thể Thao 
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="Nổi Bật" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAP3RwHfNIRwLlPpb1lBjxOEncEtcW41Ldsm8pqlPuw&s=10", HTV9 HD
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="fptplay" group-title="Cơ Bản" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2nW4W1Yo3sQCMgGnu7mC0mwjDCRKGWi8_ibkWhYIwFg&s", FPT Play 
+https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Cơ Bản" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQ27MjHl3cKJYhYGrT21hJ6slFk9SwxAMlE4pkys_vQ&s=10", VTV1 HD
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Cơ Bản" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTW0LJxIUIW4wDTgaE-cYuU0EUOYt0_JH8Io0uiwDI_w&s=10", VTV2 HD
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Cơ Bản" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRESqpffHd8QlJhWzfn7fu0zOujk3qmLDm4JMTD8LpeDQ&s=10", VTV3 HD
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="Cơ Bản" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrfxcv-bh0vyUtdlb-CDepjLNamg42gfaQTjp_inS_Ng&s=10", VTV4 HD
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Cơ Bản" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROTWF_uK29AzLbCg2Qs27JrQJ7Umfbm_vVhZy96sBZGg&s=10", VTV5 HD
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv5tnb" group-title="Cơ Bản" tvg-logo="https://images.fptplay53.net/media/channels/OTT/2023/04/03/icon_channel_vtv5-tay-nam-bo_168048836001.jpg", VTV5 Tây Nam Bộ
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="Cơ Bản" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8kFZhtenpUvdumhaOoVnd5dnS2zfDHxCsqesKYeawg&s=10", VTV7 HD
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" group-title="Cơ Bản" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCcjcaeRuHaX3F26KR0RpTDQlirz4NrY1oPHRQxKV4Sw&s=10", QPVN HD
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htvkey" group-title="Cơ Bản" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxR8s_Pq3b-PUIoldQvhq9BKJOeAblM2cKDoTDjdfHqg&s=10", HTV Key 
+https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ715GIo3hIN0BlrOWK5eVUa_leDZsJKQZQ6IMuWlbFgw&s=10", Asian Food Channel
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiMooAL7Xm1FUvPcZZ3uhIUw_p4TyNnE73GOj6uuyEkw&s=10", Da Vinci Learning
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPIS1vQ_xLG5aNtn2rEPnYC1zXC01StzhOBvlPMlGHPA&s=10", CNBC
+https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7ssi9O6vEDPGIRqcwxDIDwVnE1bUNcoZYeBL1Yq2nA&s=10", KBS World 
+https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNmTdhVTiSJZS1os3qL-k9wpxsnBHQ9CQYQ_IHHEdy4w&s=10", NHK World HD
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAYhoXIgKCsWWa_rMQTGrEyfnRovc6IpdQd57FAbt9WA&s=10", DW 
+https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://img.lichphatsong.site/logo/arirang.png",Arirang
+https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="cna" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStv699wVRrgbHgwE6--EteigJpwl2aY7XCLnUrS3aVmw&s=10", Channel NewsAsia
+https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="france24" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQtU-uZOdDbUrIv7pVdXxNVyVlMw1k1JYY2GOk6Cjm5Q&s=10", France 24
+https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJ-zUwEVBX3OSHY90NGtBtj9SZ5GJq2xUhDutaTOzHw&s=10", TV5 Monde 
+https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="angiang" group-title="Địa Phương" tvg-logo="https://img.lichphatsong.site/logo/angiang.png",An Giang
+https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vungtau" group-title="Địa Phương" tvg-logo="https://img.lichphatsong.site/logo/vungtau.png",Bà Rịa - Vũng Tàu
+https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="bacgiang" group-title="Địa Phương" tvg-logo="https://img.lichphatsong.site/logo/bacgiang.png",Bắc Giang
+https://live.fptplay53.net/fnxsd1/bacgiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="backan" group-title="Địa Phương" tvg-logo="https://img.lichphatsong.site/logo/backan.png",Bắc Kạn
+https://live.fptplay53.net/fnxsd1/backan_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="baclieu" group-title="Địa Phương" tvg-logo="https://img.lichphatsong.site/logo/baclieu.jpg",Bạc Liêu
+https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://img.lichphatsong.site/logo/bacninh.png",Bắc Ninh
+https://live.fptplay53.net/fnxsd1/bacninh_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="bentre" group-title="Địa Phương" tvg-logo="https://img.lichphatsong.site/logo/bentre.png",Bến Tre
+https://live.fptplay53.net/epzsd1/bentre_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="binhdinh" group-title="Địa Phương" tvg-logo="https://img.lichphatsong.site/logo/binhdinh.png",Bình Định
+https://live.fptplay53.net/epzsd1/binhdinh_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="binhduong1" group-title="Địa Phương" tvg-logo="https://img.lichphatsong.site/logo/binhduong1.png",Bình Dương 1
+https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="binhduong2" group-title="Địa Phương" tvg-logo="https://img.lichphatsong.site/logo/binhduong2.png",Bình Dương 2
+https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="angiang" group-title="Tất Cả" tvg-logo="https://img.lichphatsong.site/logo/angiang.png",An Giang
+https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="antvhd" group-title="Tất Cả" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9iNMAum5A1HgQVGIWr8JuPrUvI-op78ziBvBfP5uRQ&s=10", ANTV
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="arirang" group-title="Tất Cả" tvg-logo="https://img.lichphatsong.site/logo/arirang.png",Arirang
+https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="afnhd" group-title="Tất Cả" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ715GIo3hIN0BlrOWK5eVUa_leDZsJKQZQ6IMuWlbFgw&s=10", Asian Food Channel
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vungtau" group-title="Tất Cả" tvg-logo="https://img.lichphatsong.site/logo/vungtau.png",Bà Rịa - Vũng Tàu
+https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="bacgiang" group-title="Tất Cả" tvg-logo="https://img.lichphatsong.site/logo/bacgiang.png",Bắc Giang
+https://live.fptplay53.net/fnxsd1/bacgiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="backan" group-title="Tất Cả" tvg-logo="https://img.lichphatsong.site/logo/backan.png",Bắc Kạn
+https://live.fptplay53.net/fnxsd1/backan_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="baclieu" group-title="Tất Cả" tvg-logo="https://img.lichphatsong.site/logo/baclieu.jpg",Bạc Liêu
+https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="bacninh" group-title="Tất Cả" tvg-logo="https://img.lichphatsong.site/logo/bacninh.png",Bắc Ninh
+https://live.fptplay53.net/fnxsd1/bacninh_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="bentre" group-title="Tất Cả" tvg-logo="https://img.lichphatsong.site/logo/bentre.png",Bến Tre
+https://live.fptplay53.net/epzsd1/bentre_hls.smil/chunklist.m3u8
